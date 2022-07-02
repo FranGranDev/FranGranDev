@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranGranDev
-- 👀 I’m interested in Unity Development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on Games)
+- 💞️ I’m looking to collaborate on making Games
 - 📫 How to reach me frangrandev@gmail.com
 
 My Google Play profile:
