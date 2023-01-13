@@ -2,6 +2,7 @@
 
 - 🔥 I’m Game Developer
 - 🔨 I’m working with Unity, C#
+- 🎯 I’m currently learning Machine Learning
 - 🌱 I'm currently working on: [Car Survival 3D](https://play.google.com/store/apps/details?id=com.butchersgames.carsmash3d)
 - 📫 How to reach me frangrandev@gmail.com
 
