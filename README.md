@@ -31,9 +31,8 @@ I am a 🎮 Unity game developer and a 🎓 student at Belarusian State Universi
  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  <br> ![WPF](https://img.shields.io/badge/WPF-%230078D7.svg?style=for-the-badge&logo=.net&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-
-
-
+## Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranGranDev&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGranDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
