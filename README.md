@@ -1,15 +1,14 @@
 <b>Hello world 👋<b>
 - 🔥 I’m Game Developer
-- 💪 3y experience in Game Dev
+- 💪 5y experience in Game Dev
 - 🔨 I’m working with Unity
-- 🏢 I'm looking for hard job 😋
 - 📫 How to reach me frangrandev@gmail.com | https://t.me/FranGranDev
   
 ## About me
 I am a 🎮 Unity game developer and a 🎓 student at Belarusian State University of Informatics and Radioelectronics, majoring in Information Systems and Technologies in Business Management.
   
 ## Experience
-- 🏦 Developed commercial games on Unity for a period of 2 years
+- 🏦 Developed commercial games on Unity for a period of 3 years
 - 👯 Collaborated with a team of developers and game designers to create engaging gameplay experiences.
 - 🎮 Prototyped and implemented various game mechanics.
 - 📈 Designed and optimized game architectures to enhance performance and maintainability.
